@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Yash 👋
 
-<!--
-**yashkudalkar107-beep/yashkudalkar107-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Graduate  
+🐍 Python | SQL | Data Analytics | Machine Learning
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an MCA graduate interested in Data Analytics,
+Machine Learning and Data Engineering.
+
+## Skills
+
+- Python
+- SQL
+- Data Analytics
+- Machine Learning
+- Git & GitHub
+- PostgreSQL
+
+## Projects
+
+📈 Data Analytics Project
+
+🤖 Machine Learning Project
+
+## Currently Learning
+
+- Data Engineering
+- PostgreSQL
+- SAP S/4HANA
+
+## Connect With Me
+
+- LinkedIn - www.linkedin.com/in/yash-kudalkar-b7a475378
+- Email - yashkudalkar107@gmail.com
